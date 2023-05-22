@@ -6,6 +6,8 @@
 
 3. The lists of endpoints to use are shown below:
 
+4. To start the app in development server, use 'npm run dev'
+
 Movie List:
 1. Now Playing
 2. Popular
